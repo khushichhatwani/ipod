@@ -8,21 +8,13 @@ import song3 from "../static/songs/song-1.mp3";
 
 import song4 from "../static/songs/song-1.mp3";
 
-<<<<<<< HEAD
 import image1 from "../static/images/image1.jpg"
 import image2 from "../static/images/image2.jpg"
 
 import image3 from "../static/images/image3.jpg"
 
 import image4 from "../static/images/image4.jpg"
-=======
-import image1 from "../static/images/image1.png"
-import image2 from "../static/images/image2.png"
 
-import image3 from "../static/images/image3.png"
-
-import image4 from "../static/images/image4.png"
->>>>>>> 76aa3ee (Initial commit)
 
 import wallpaper1 from "../static/images/wallpaper1.jpg";
 
@@ -41,11 +33,7 @@ class App extends React.Component{
             musicItems: ["All Songs", "Artist", "Albums"],
              songItemsUrl: [song1, song2, song3,song4],
             songImgItemsUrl: [image1, image2, image3, image4],
-<<<<<<< HEAD
             songItem: ["Another Love", "Golden", "This Town", "Nothing breaks like a herat"],
-=======
-            songItem: ["Jatt Mehkma", "Millionaire", "6AM", "Bonita"],
->>>>>>> 76aa3ee (Initial commit)
             wallpaper: 0,
 
             wallpaperItems: [wallpaper1, wallpaper2],
