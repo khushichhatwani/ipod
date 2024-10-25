@@ -54,7 +54,7 @@ li {
 
 /* Leaf image */
 .leaf-img {
-    border: 2px solid black;
+    /* border: 2px solid black; */
     height: 188px;
     width: 135px;
 }
